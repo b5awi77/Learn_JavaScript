@@ -12,3 +12,4 @@ if (age >= 18) {
 for (let i = 1; i <= 5; i++) {
   console.log("Number " + i);
 }
+// my first lesson
