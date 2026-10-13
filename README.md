@@ -9,4 +9,5 @@ My journey learning JavaScript from scratch.
 - exercises.js: multiply, isEven, and greater exercises.
 - arrays.js: Arrays, push/pop, length, and loops over arrays.
 - arrays_exercises.js: Max number, sumArray function, and even numbers.
+- objects.js: Objects, methods, this, and arrays of objects.
 More lessons coming soon.
