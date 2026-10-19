@@ -11,5 +11,6 @@ My journey learning JavaScript from scratch.
 - arrays_exercises.js: Max number, sumArray function, and even numbers.
 - objects.js: Objects, methods, this, and arrays of objects.
 - dom/: DOM basics, events, buttons, and input.
+- todo/: To-Do list with Enter key, task counter, and done state.
 
 More lessons coming soon.
