@@ -12,5 +12,6 @@ My journey learning JavaScript from scratch.
 - objects.js: Objects, methods, this, and arrays of objects.
 - dom/: DOM basics, events, buttons, and input.
 - todo/: To-Do list with Enter key, task counter, and done state.
+- guess-game/: Number guessing game. [Live demo](https://b5awi77.github.io/Learn_JavaScript/guess-game/)
 
 More lessons coming soon.
